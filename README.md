@@ -1,1 +1,0 @@
-# chain-base-operator-node
